@@ -4,8 +4,8 @@ title: Resources
 permalink: /resources
 ---
 
-Wikipedia
-Google Books
+* Wikipedia
+* Google Books
 .
 .
 .
