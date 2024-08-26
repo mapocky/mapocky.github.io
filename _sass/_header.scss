@@ -28,6 +28,15 @@
   padding-left: 10px;
   float: left;
 }
+.site-title img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 30px;
+  width: 30px;
+  margin-right: 5px;
+  src: "assets/img/favicon-32x32.png";
+}
 .menu-list {
   line-height: $header-thickness;
   float: right;
