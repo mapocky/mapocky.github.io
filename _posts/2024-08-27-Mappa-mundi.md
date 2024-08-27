@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mappa Mundi, the Largest Medieval Map"
-subtitle: ""
+subtitle: "."
 author: "Daidarai"
 categories: facts
 tags: [brief facts]
@@ -12,8 +12,3 @@ permalink: /mappamundi
 I was researching mythical races and during that research I came across an online medival map from 1300. You can explore this map of inhabited part of the world (roughly equivalent to Europe, Asia and North Africa) yourself on its website. Aside from mythical races, that are drawn on this map, there are also beasts, legends and biblical stories displayed in the map.
 
 Here is the link: https://www.themappamundi.co.uk/ 
-
-<figure style="float:center; margin:10px 10px;">
-  <img src="assets/img/mappamundi.png" width="550" height="350">
-  <figcaption style="font-style: italic; font-size: 13px; text-align: center; margin-top: 5px;"> Mappa Mundi<br>map</figcaption>
-</figure>
