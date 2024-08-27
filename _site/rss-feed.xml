@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Daidarai</title>
+		<description>having fun and researching some topics</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Mappa Mundi, the Largest Medieval Map</title>
+				
+					<dc:creator>Daidarai</dc:creator>
+				
+				
+					<description>&lt;p&gt;I was researching mythical races and I came across an online medival map from 1300. You can explore this map of inhabited part of the world (roughly equivalent to Europe, Asia and North Africa) yourself on &lt;a href=&quot;https://www.themappamundi.co.uk/&quot;&gt;its website&lt;/a&gt;. Aside from mythical races, that are drawn on this map, there are also beasts, legends and biblical stories displayed.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 27 Aug 2024 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/mappamundi</link>
+				<guid isPermaLink="true">http://localhost:4000/mappamundi</guid>
+			</item>
+		
+			<item>
+				<title>This Devil Was Too Beautiful: The Satan statues by Geefs&apos; brothers</title>
+				
+					<dc:creator>Daidarai</dc:creator>
+				
+				
+					<description>&lt;p&gt;The year is 1837 and the Belgian church just commissioned a devil sculpture for St. Paul’s Cathedral in Liége. The devil statue was meant to be part of an even bigger project — the new pulpit with theme “the Triumph of Religion over the Genius of Evil”. 
+The sculptor Guillaume Geefs was put in charge of designing the pulpit. The creation of the devil sculpture was entrusted to Guillaume’s younger brother – Joseph Geefs. (…) And Joseph created one of the &lt;strong&gt;“most disturbing works of the period”&lt;/strong&gt;  – the Genius of Evil.&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 22 Aug 2024 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/the-satan-statue-geefs</link>
+				<guid isPermaLink="true">http://localhost:4000/the-satan-statue-geefs</guid>
+			</item>
+		
+	</channel>
+</rss>

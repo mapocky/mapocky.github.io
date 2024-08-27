@@ -9,6 +9,12 @@
   }
 }
 
+.fa-youtube {
+  padding: 5px;
+  @include social-media-icon($youtube-color, $icon-transition-time);
+  font-size: 24px;
+}
+
 .fa-envelope {
   padding: 5px;
   @include social-media-icon($envelope-color, $icon-transition-time);
