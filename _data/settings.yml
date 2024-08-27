@@ -7,9 +7,10 @@ disqus:
 google-ID: ''
 menu:
 
+- {name: 'Articles', url: 'articles'}
 - {name: 'Brief Facts', url: 'facts'}
 - {name: 'Resources', url: 'resources'}
-- {name: 'About',              url: 'about'}
+- {name: 'About', url: 'about'}
 #- {name: 'Interesting Facts',  url: 'facts'}
 #- {name: 'Contact',            url: 'contact'}
 
