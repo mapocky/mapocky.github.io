@@ -1,0 +1,1 @@
+Cultural practices to avod getting killed (cheers, handshake)
