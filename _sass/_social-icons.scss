@@ -9,10 +9,9 @@
   }
 }
 
-.fa-youtube {
+.fa-youtube { // HERE IS IT - ADDED
   padding: 5px;
   @include social-media-icon($youtube-color, $icon-transition-time);
-  font-size: 24px;
 }
 
 .fa-envelope {
