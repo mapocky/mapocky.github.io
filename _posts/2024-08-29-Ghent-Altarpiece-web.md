@@ -8,7 +8,7 @@ tags: [brief facts]
 image: altar.png
 permalink: /ghent-altarpiece
 ---
-Beautiful piece of art, right? 
+Beautiful piece of art, right?
 
 On [this website](https://closertovaneyck.kikirpa.be/
 ) you can see before restoration, during and after restoration versions of the Ghent Altarpiece. There is also option to close or open the altar.
@@ -25,7 +25,7 @@ Aside from Ghent Altarpiece, it is also called Adoration of the Mystic Lamb.
   <figcaption style="font-style: italic; font-size: 13px; text-align: center; margin-top: 5px;"> Before restoration<br>Author: Van Eyck</figcaption>
 </figure>
 
-It was painted by brothers Hubert and Jan van Eyck in Belgium. They began painting the altarpiece around mid-1420s and completed the work in 1432. There was also text found onthe frame of the central panel, it says: "Hubert van Eyck, the greatest painter ever, started this work; his brother Jan, who came second in painting, completed this arduous task at the request of Joos Vijd. He entrusts this work to you on 6 May 1432. Admire what they have accomplished," according to Saint Bavo's Cathedral's website. But Art historians coudln't figure out which panel painted which brother.
+It was painted by brothers Hubert and Jan van Eyck in Belgium. They began painting the altarpiece around mid-1420s and completed the work in 1432. There was also text found onthe frame of the central panel, it says: “Hubert van Eyck, the greatest painter ever, started this work; his brother Jan, who came second in painting, completed this arduous task at the request of Joos Vijd. He entrusts this work to you on 6 May 1432. Admire what they have accomplished,” according to Saint Bavo's Cathedral's website. But Art historians coudln't figure out which panel painted which brother.
 
 This artpiece experienced quite a backlash from the public, but the restoration was actually accurate. Van Eyck really did draw the lamb like this, the lamb was overpainted in 16th century so it would look more like a lamb. So, Van Eyck was going for that humanoid look and now it is back.
 
