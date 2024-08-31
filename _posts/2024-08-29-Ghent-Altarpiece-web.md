@@ -3,8 +3,8 @@ layout: post
 title: "Brief: Explore The Ghent Altarpiece by Van Eyck"
 subtitle: "."
 author: "Daidarai"
-categories: facts
-tags: [brief facts]
+categories: brief
+tags: [brief]
 image: altar.png
 permalink: /ghent-altarpiece
 ---
