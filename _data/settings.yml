@@ -8,7 +8,7 @@ google-ID: 'G-WDNXVP65D6'
 menu:
 
 - {name: 'Articles', url: 'articles'}
-- {name: 'Brief Facts', url: 'facts'}
+- {name: 'Brief', url: 'brief'}
 - {name: 'About', url: 'about'}
 #- {name: 'Contact',            url: 'contact'}
 

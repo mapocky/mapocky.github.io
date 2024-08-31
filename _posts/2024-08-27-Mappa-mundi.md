@@ -3,8 +3,8 @@ layout: post
 title: "Brief: Mappa Mundi, the Largest Medieval Map"
 subtitle: "."
 author: "Daidarai"
-categories: facts
-tags: [brief facts]
+categories: brief
+tags: [brief]
 image: mappamundi.png
 permalink: /mappamundi
 ---
