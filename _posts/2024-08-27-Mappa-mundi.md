@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mappa Mundi, the Largest Medieval Map"
+title: "Brief: Mappa Mundi, the Largest Medieval Map"
 subtitle: "."
 author: "Daidarai"
 categories: facts

@@ -10,16 +10,17 @@ menu:
 - {name: 'Articles', url: 'articles'}
 - {name: 'Brief Facts', url: 'facts'}
 - {name: 'About', url: 'about'}
-#- {name: 'Interesting Facts',  url: 'facts'}
 #- {name: 'Contact',            url: 'contact'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'youtube', link:   'https://www.youtube.com'}
+- {icon: 'youtube', link: 'https://www.youtube.com/@Daidarai'}
+- {icon: 'twitter', link:    'https://twitter.com/'}
+- {icon: 'instagram', link:  'https://instagram.com/'}
+# - {icon: 'tiktok', link: 'https://www.tiktok.com/'}
+
 # - {icon: 'reddit', link:   'https://www.reddit.com'}
-#- {icon: 'twitter', link:    'https://twitter.com/'}
 #- {icon: 'facebook', link:   'https://www.facebook.com/'}
-#- {icon: 'instagram', link:  'https://instagram.com/'}
 #- {icon: 'envelope', link:   'mailto:'}
 #- {icon: 'rss-square', link: 'feed.xml'}
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
