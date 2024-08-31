@@ -10,8 +10,8 @@ permalink: /ghent-altarpiece
 ---
 Beautiful piece of art, right?
 
-On [this website](https://closertovaneyck.kikirpa.be/
-) you can see before restoration, during and after restoration versions of the Ghent Altarpiece. There is also option to close or open the altar.
+You can see before restoration, during and after restoration versions of the Ghent Altarpiece on [this website](https://closertovaneyck.kikirpa.be/
+). There is also option to close or open the altar.
 
 Aside from Ghent Altarpiece, it is also called Adoration of the Mystic Lamb. 
 
