@@ -7,6 +7,20 @@
 		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Brief: The first known representation of rhinophyma</title>
+				
+					<dc:creator>Daidarai</dc:creator>
+				
+				
+					<description>&lt;p&gt;This painting (1490) by Italian artist Domenico Ghirlandaio named An Old Man and his Grandson (Ritratto di vecchio con nipote) is unique, because it features the first known representation of a condition called “rhinophyma”. The deformity on the old man’s nose can be seen in the painting. I found out about this painting thanks to this &lt;a href=&quot;https://www.youtube.com/watch?v=s6gKTy9oyhA&quot;&gt;video&lt;/a&gt;, where is Dr. Lee treating her patient with the rhinophyma and helping him achieve better breathing with her procedure.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sun, 08 Sep 2024 00:00:00 +0200</pubDate>
+				<link>http://localhost:4000/ghirlandaio-an-old-man-and-his-grandson</link>
+				<guid isPermaLink="true">http://localhost:4000/ghirlandaio-an-old-man-and-his-grandson</guid>
+			</item>
+		
+			<item>
 				<title>Brief: Explore The Ghent Altarpiece by Van Eyck</title>
 				
 					<dc:creator>Daidarai</dc:creator>
