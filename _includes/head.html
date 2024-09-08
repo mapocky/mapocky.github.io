@@ -1,4 +1,5 @@
 <head>
+
   <title>
     {% if page.title == "Home" %}
       {{ site.title }} | {{ site.description }}
@@ -21,9 +22,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
   <script type="text/javascript" async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
-  <!-- Google Analytics -->
-  {% include google-analytics.html %}
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+  </script>  
+  {% include analytics.html %}   
+  <!-- Google Analytics - just got deleted -->
 </head>
