@@ -7,7 +7,6 @@ Gemfile.lock
 *.gem
 
 # Ignore specific posts
-An-Old-Man.md
 In-Defense-of-G.md
 Motivation.md
 Mythical-races.md
